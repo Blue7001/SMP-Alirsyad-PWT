@@ -1,3 +1,5 @@
+Jadwal kelas 8G
+
 SENIN:
 Upacara/Apel/literasi
 Olahraga
