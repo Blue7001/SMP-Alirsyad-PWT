@@ -15,7 +15,7 @@ SELASA:
 4. Matematika
 
 RABU:
-1. Pagi berkah
+1. Pagi Berkah
 2. Informatika
 3. IPS
 4. IPA
