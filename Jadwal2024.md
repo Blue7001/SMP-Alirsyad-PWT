@@ -1,7 +1,7 @@
 # Jadwal 8G as per 2024
 
 SENIN:
-1. Upacara
+1. Upacara/Apel/Literasi
 2. Olahraga
 3. Bahasa Jawa/PKN
 4. Matematika
