@@ -6,7 +6,7 @@ SENIN:
 3. Bahasa Jawa/PKN
 4. Matematika
 5. Bahasa Inggris
-6. Al quran
+6. Al Qur'an
 
 SELASA:
 1. Akidah
@@ -18,14 +18,14 @@ RABU:
 1. Informatika
 2. IPS
 3. IPA
-4. Al quran
+4. Al Qur'an
 5. Bahasa Indonesia
 
 KAMIS:
 1. Bahasa Inggris
 2. SBDP
 3. Fikih
-4. Al quran
+4. Al Qur'an
 5. Bahasa Indonesia
 
 JUMAT:
