@@ -1,4 +1,4 @@
-Jadwal kelas 8G
+Jadwal kelas 8G as per 2023
 
 SENIN:
 Upacara/Apel/literasi
