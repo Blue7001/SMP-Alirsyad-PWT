@@ -1,40 +1,40 @@
 Jadwal 8G as per 2024
 
 SENIN:
-Upacara
-Olahraga
-Bahasa Jawa / PKN
-Matematika
-Bahasa Inggris
-Al quran
+1.Upacara
+2.Olahraga
+3.Bahasa Jawa / PKN
+4.Matematika
+5.Bahasa Inggris
+6.Al quran
 
 SELASA:
-Akidah
-Bahasa Arab
-Bahasa Inggris
-Matematika
+1.Akidah
+2.Bahasa Arab
+3.Bahasa Inggris
+4.Matematika
 
 RABU:
-Informatika
-IPS
-IPA
-Al quran
-Bahasa Indonesia
+1.Informatika
+2.IPS
+3.IPA
+4.Al quran
+5.Bahasa Indonesia
 
 KAMIS:
-Bahasa Inggris
-SBDP
-Fikih
-Al quran
-Bahasa Indonesia
+1.Bahasa Inggris
+2.SBDP
+3.Fikih
+4.Al quran
+5.Bahasa Indonesia
 
 JUMAT:
-IPS
-IPA
-Bahasa Indonesia
-Hadis
+1.IPS
+2.IPA
+3.Bahasa Indonesia
+4.Hadis
 
 SABTU:
-Extrakulikuler
-Bahasa Inggris
-Tarikh
+1.Extrakulikuler
+2.Bahasa Inggris
+3.Tarikh
