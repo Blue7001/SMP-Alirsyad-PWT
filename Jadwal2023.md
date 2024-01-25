@@ -1,4 +1,4 @@
-# Jadwal kelas 8G as per 2023
+# Jadwal 8G as per 2023
 
 SENIN:
 1. Upacara/Apel/literasi
@@ -40,4 +40,4 @@ SABTU:
 2. Bahasa Inggris
 3. Tarikh
 
-
+## Arkan Asadil Huda
