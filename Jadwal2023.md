@@ -9,18 +9,18 @@ SENIN:
 6. Al Qur'an
 
 SELASA:
-1. Pagi berkah
-2. Akidah
-3. Bahasa Arab
-4. Bhasa Inggris
-5. Matematika
+1. Akidah
+2. Bahasa Arab
+3. Bahasa Inggris
+4. Matematika
 
 RABU:
-1. Informatika
-2. IPS
-3. IPA
-4. Al Qur'an
-5. BahasaIndonesia
+1. Pagi berkah
+2. Informatika
+3. IPS
+4. IPA
+5. Al Qur'an
+6. Bahasa Indonesia
 
 KAMIS:
 1. Bahasa Inggris
