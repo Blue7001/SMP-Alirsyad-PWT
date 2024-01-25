@@ -15,11 +15,12 @@ SELASA:
 4. Matematika
 
 RABU:
-1. Informatika
-2. IPS
-3. IPA
-4. Al Qur'an
-5. Bahasa Indonesia
+1. Pagi Berkah
+2. Informatika
+3. IPS
+4. IPA
+5. Al Qur'an
+6. Bahasa Indonesia
 
 KAMIS:
 1. Bahasa Inggris
